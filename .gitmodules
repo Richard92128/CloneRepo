@@ -1,3 +1,6 @@
 [submodule "FilterDriverSample"]
 	path = FilterDriverSample
 	url = https://github.com/Richard92128/FilterDriverSample.git
+[submodule "LLLL/zeromq-prebuilt"]
+	path = LLLL/zeromq-prebuilt
+	url = https://github.com/microsoft/zeromq-prebuilt.git
